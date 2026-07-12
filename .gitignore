@@ -1,0 +1,7 @@
+target/
+*.log
+compile_log.txt
+.classpath
+.project
+.settings/
+.factorypath
